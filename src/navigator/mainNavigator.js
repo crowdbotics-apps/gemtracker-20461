@@ -14,7 +14,6 @@ import ArticleList104311Navigator from '../features/ArticleList104311/navigator'
 import ArticleList104310Navigator from '../features/ArticleList104310/navigator';
 import UserProfile104299Navigator from '../features/UserProfile104299/navigator';
 import Tutorial104298Navigator from '../features/Tutorial104298/navigator';
-import NotificationList104270Navigator from '../features/NotificationList104270/navigator';
 import Settings104269Navigator from '../features/Settings104269/navigator';
 
 /**
@@ -33,7 +32,6 @@ ArticleList104311: { screen: ArticleList104311Navigator },
 ArticleList104310: { screen: ArticleList104310Navigator },
 UserProfile104299: { screen: UserProfile104299Navigator },
 Tutorial104298: { screen: Tutorial104298Navigator },
-NotificationList104270: { screen: NotificationList104270Navigator },
 Settings104269: { screen: Settings104269Navigator },
 
     /** new navigators can be added here */
