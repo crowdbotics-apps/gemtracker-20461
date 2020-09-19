@@ -13,7 +13,6 @@ import BlankScreen90104328Navigator from '../features/BlankScreen90104328/naviga
 import ArticleList104311Navigator from '../features/ArticleList104311/navigator';
 import ArticleList104310Navigator from '../features/ArticleList104310/navigator';
 import UserProfile104299Navigator from '../features/UserProfile104299/navigator';
-import Tutorial104298Navigator from '../features/Tutorial104298/navigator';
 import Settings104269Navigator from '../features/Settings104269/navigator';
 
 /**
@@ -31,7 +30,6 @@ BlankScreen90104328: { screen: BlankScreen90104328Navigator },
 ArticleList104311: { screen: ArticleList104311Navigator },
 ArticleList104310: { screen: ArticleList104310Navigator },
 UserProfile104299: { screen: UserProfile104299Navigator },
-Tutorial104298: { screen: Tutorial104298Navigator },
 Settings104269: { screen: Settings104269Navigator },
 
     /** new navigators can be added here */
