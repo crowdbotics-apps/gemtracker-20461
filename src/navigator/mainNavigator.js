@@ -16,7 +16,6 @@ import UserProfile104299Navigator from '../features/UserProfile104299/navigator'
 import Tutorial104298Navigator from '../features/Tutorial104298/navigator';
 import NotificationList104270Navigator from '../features/NotificationList104270/navigator';
 import Settings104269Navigator from '../features/Settings104269/navigator';
-import Settings104261Navigator from '../features/Settings104261/navigator';
 
 /**
  * new navigators can be imported here
@@ -36,7 +35,6 @@ UserProfile104299: { screen: UserProfile104299Navigator },
 Tutorial104298: { screen: Tutorial104298Navigator },
 NotificationList104270: { screen: NotificationList104270Navigator },
 Settings104269: { screen: Settings104269Navigator },
-Settings104261: { screen: Settings104261Navigator },
 
     /** new navigators can be added here */
     SplashScreen: {
